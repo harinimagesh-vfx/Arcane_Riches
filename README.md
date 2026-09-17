@@ -78,17 +78,11 @@ Add the final animation/video here:
 
 > Insert your demo video or GIF here.
 
-## 💼 About the Project
 
-This project was created as a **portfolio piece for ArtRaid**, showcasing our approach to producing 2D game assets and animations for game developers and studios.
-
-We focus on creating **production-ready 2D game assets, character animations, UI animations, and visual elements** that can be integrated into different game projects.
 
 ---
 
-### ArtRaid
 
-**2D Game Assets • Animation • Game UI**
 
 🌐 Website: https://artraid.in/
 
